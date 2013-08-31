@@ -1,3 +1,6 @@
+# If you use iTerm, turn off "Draw bold text in bright colors"
+# under "Preferences -> Profiles -> Text" to get LSCOLORS to work
+
 # shortcut to this dotfiles path is $DOTFILES
 export DOTFILES=$HOME/.dotfiles
 
