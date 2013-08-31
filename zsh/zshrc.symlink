@@ -43,5 +43,4 @@ done
 unset config_files
 
 typeset -U PATH
-typeset -U MANPATH
 typeset -U fpath
