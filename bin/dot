@@ -13,3 +13,6 @@ brew update
 
 # Install homebrew packages
 $DOTFILES/homebrew/install.sh 2>&1
+
+# Install bundle
+$DOTFILES/vim/install.sh 2>&1
