@@ -14,6 +14,13 @@ then
 fi
 
 # Install homebrew packages
-brew install grc coreutils spark the_silver_searcher fasd reattach-to-user-namespace
+brew install \
+	coreutils \
+	fasd \
+	grc \
+	reattach-to-user-namespace \
+	spark \
+	the_silver_searcher \
+	tmux
 
 exit 0
