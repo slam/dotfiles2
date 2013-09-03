@@ -41,6 +41,8 @@ Bundle "mattn/webapi-vim.git"
 Bundle "rking/ag.vim"
 Bundle "vim-scripts/lastpos.vim"
 Bundle "vim-scripts/sudo.vim"
+Bundle "vim-scripts/YankRing.vim"
+Bundle "tpope/vim-sleuth"
 
 " Cosmetics, color scheme, Powerline...
 Bundle "altercation/vim-colors-solarized"
